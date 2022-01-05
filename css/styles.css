@@ -2,6 +2,11 @@ img {
   width: 100%;
 }
 
+body {
+  background-color: #b0e6ff;
+}
+
+
 .discord {
   height: 100px;
   background-image: linear-gradient(#6440a4,#f1f2f9);
